@@ -1,0 +1,7 @@
+#Tue Jul 04 18:11:56 IST 2017
+base.0=C\:\\Users\\PAVAS NAVANEY\\AndroidStudioProjects\\AadharApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5f22951c9309a9437a80a2438b57616fd0435455
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\PAVAS NAVANEY\\AndroidStudioProjects\\AadharApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2fe827f4d70ab1002070fa7109f770641bbc0dbd\\classes.dex
+base.1=C\:\\Users\\PAVAS NAVANEY\\AndroidStudioProjects\\AadharApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2fe827f4d70ab1002070fa7109f770641bbc0dbd
+file.0=C\:\\Users\\PAVAS NAVANEY\\AndroidStudioProjects\\AadharApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5f22951c9309a9437a80a2438b57616fd0435455\\classes.dex

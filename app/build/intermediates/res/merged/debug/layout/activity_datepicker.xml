@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="aadharapp.cloud.csc.aadharapp.Datetime.Datepicker">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="2.5"
+        android:background="@color/colorPrimary"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:text="Your Selected Date"
+            android:gravity="center"
+            android:id="@+id/selecttext"
+            android:textStyle="bold"
+            android:paddingLeft="9dp"
+            android:layout_marginTop="23dp"
+            android:textSize="28sp"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:id="@+id/header"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="12"
+            android:paddingRight="3dp"
+            android:id="@+id/date"
+            android:layout_weight="1"
+            android:gravity="center|right"
+            android:textSize="58sp"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="JUN"
+            android:paddingLeft="3dp"
+            android:id="@+id/mon"
+            android:paddingTop="12dp"
+            android:layout_weight="1"
+            android:gravity="center|left"
+            android:textSize="40sp"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+</LinearLayout>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/ll2"
+        android:layout_below="@+id/header"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Morning"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:paddingLeft="3dp"
+            android:background="@drawable/dividerdrawableamber"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/morning"
+            android:padding="12dp"
+            android:layout_weight="1"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"/>
+
+        <GridLayout
+            android:layout_marginTop="10dp"
+            android:id="@+id/morningslot"
+            android:rowCount="4"
+            android:layout_marginLeft="10dp"
+            android:columnCount="3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </GridLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/ll3"
+        android:layout_below="@+id/header"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AfterNoon"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:paddingLeft="3dp"
+            android:background="@drawable/dividerdrawableamber"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/afternoon"
+            android:padding="12dp"
+            android:layout_weight="1"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"/>
+
+        <GridLayout
+            android:alignmentMode="alignBounds"
+            android:layout_marginTop="10dp"
+            android:useDefaultMargins="true"
+            android:id="@+id/afternoonslot"
+            android:layout_width="match_parent"
+            android:rowCount="5"
+            android:layout_marginLeft="10dp"
+            android:columnCount="3"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/ll4"
+        android:layout_below="@+id/header"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Evening"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:paddingLeft="3dp"
+            android:background="@drawable/dividerdrawableamber"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/evening"
+            android:padding="12dp"
+            android:layout_weight="1"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"/>
+
+        <GridLayout
+            android:layout_marginTop="10dp"
+            android:id="@+id/eveningslot"
+            android:rowCount="4"
+            android:stretchMode="columnWidth"
+            android:horizontalSpacing="5dp"
+            android:verticalSpacing="5dp"
+            android:columnCount="3"
+            android:layout_marginLeft="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+    </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+</LinearLayout>

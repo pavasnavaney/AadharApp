@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:9:5-58:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\915f65e8eea2ccb879944b0647ee4f66eaf84ab7\output\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:2.0.0] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\a4f3cb6543c1037f1329a8a4ca215ebe2c9b08c8\output\AndroidManifest.xml:10:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:3.2.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\01183f56e465cc3305ad770ac6563dd89933a77a\output\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\40cc0a685b9c776d8759b1b606c9e4bfafd0885c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\a874ad63ac3b660f12276acf18925e3a4d56aa92\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\6f9486b12fa9a94dc320a0911e95f9d8c810a2d6\output\AndroidManifest.xml:26:5-20
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\493b47cb1c5aa6388b9b31c9b644ee547dadd16a\output\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ea0cb883b36fdb5e6bf9d2a21259a47b617af3fb\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\0a8f57229c970b6898c425cf7154654ac01329a9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ead37b94d6dc69748a5d3e7125ac0486f6f2ad47\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\291d2bfaf42da0c75383bfaa66a930e25780d3d4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\9c700eb6fddbf392f10713cd28e4777ba8f13d68\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ba74841b80d302cceccb5605a3ffad995249a056\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ea82bc4490af1a91b611cb6769ff3b0ff49cb138\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ac4fce1185ecfc1c0cdd783941d2bf1adc826fef\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\3881fd3a240d36e816a5822212b815cdae5e2c97\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\9a4382a937015e5b1a3ebe6531333b99fef48c03\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from [com.pnikosis:materialish-progress:1.0] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ea0cb883b36fdb5e6bf9d2a21259a47b617af3fb\output\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:10:9-49
+activity#aadharapp.cloud.csc.aadharapp.IntroSlider
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:19:13-46
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:17:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:23:27-74
+activity#aadharapp.cloud.csc.aadharapp.Main.MainActivity
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:26:9-30:66
+	android:screenOrientation
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:28:13-45
+	android:theme
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:30:13-63
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:27:13-46
+activity#aadharapp.cloud.csc.aadharapp.Main.Splash
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:31:9-34:66
+	android:label
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:33:13-58
+	android:theme
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:34:13-63
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:32:13-40
+receiver#aadharapp.cloud.csc.aadharapp.Connection.ConnectivityListener
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:enabled
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:38:13-35
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:37:13-60
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:39:13-41:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:40:25-76
+activity#aadharapp.cloud.csc.aadharapp.Main.Services
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:44:9-46:66
+	android:theme
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:46:13-63
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:45:13-42
+activity#aadharapp.cloud.csc.aadharapp.Centers.Centers
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:47:9-50:72
+	android:label
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:49:13-43
+	android:theme
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:50:13-69
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:48:13-44
+activity#aadharapp.cloud.csc.aadharapp.Datetime.Datepicker
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:51:9-53:72
+	android:theme
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:53:13-69
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:52:13-48
+activity#aadharapp.cloud.csc.aadharapp.Datetime.DatePick
+ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:54:9-57:68
+	android:label
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:56:13-61
+	android:theme
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml:55:13-46
+uses-sdk
+INJECTED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\915f65e8eea2ccb879944b0647ee4f66eaf84ab7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:2.0.0] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\a4f3cb6543c1037f1329a8a4ca215ebe2c9b08c8\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.wdullaer:materialdatetimepicker:3.2.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\01183f56e465cc3305ad770ac6563dd89933a77a\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\40cc0a685b9c776d8759b1b606c9e4bfafd0885c\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\a874ad63ac3b660f12276acf18925e3a4d56aa92\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\0bfc23a0e7c5f599c2e502592a1707ca6df407d7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\6f9486b12fa9a94dc320a0911e95f9d8c810a2d6\output\AndroidManifest.xml:20:5-44
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\493b47cb1c5aa6388b9b31c9b644ee547dadd16a\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ea0cb883b36fdb5e6bf9d2a21259a47b617af3fb\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android:flexbox:0.2.7] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\c04fb5fa7f9e886102d24d56bbf978d07aa9aeee\output\AndroidManifest.xml:23:5-25:41
+MERGED from [com.github.florent37:diagonallayout:1.0.4] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\2c8c274643c7ddce87cca3a155693fe515764943\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\0a8f57229c970b6898c425cf7154654ac01329a9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ead37b94d6dc69748a5d3e7125ac0486f6f2ad47\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\291d2bfaf42da0c75383bfaa66a930e25780d3d4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\9c700eb6fddbf392f10713cd28e4777ba8f13d68\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ba74841b80d302cceccb5605a3ffad995249a056\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ea82bc4490af1a91b611cb6769ff3b0ff49cb138\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ac4fce1185ecfc1c0cdd783941d2bf1adc826fef\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\3881fd3a240d36e816a5822212b815cdae5e2c97\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\9a4382a937015e5b1a3ebe6531333b99fef48c03\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\40cc0a685b9c776d8759b1b606c9e4bfafd0885c\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:3.2.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\01183f56e465cc3305ad770ac6563dd89933a77a\output\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:3.2.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\01183f56e465cc3305ad770ac6563dd89933a77a\output\AndroidManifest.xml:26:22-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\40cc0a685b9c776d8759b1b606c9e4bfafd0885c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\a874ad63ac3b660f12276acf18925e3a4d56aa92\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\0bfc23a0e7c5f599c2e502592a1707ca6df407d7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\6f9486b12fa9a94dc320a0911e95f9d8c810a2d6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\0a8f57229c970b6898c425cf7154654ac01329a9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ead37b94d6dc69748a5d3e7125ac0486f6f2ad47\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\291d2bfaf42da0c75383bfaa66a930e25780d3d4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\9c700eb6fddbf392f10713cd28e4777ba8f13d68\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ba74841b80d302cceccb5605a3ffad995249a056\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ea82bc4490af1a91b611cb6769ff3b0ff49cb138\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\ac4fce1185ecfc1c0cdd783941d2bf1adc826fef\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\3881fd3a240d36e816a5822212b815cdae5e2c97\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\9a4382a937015e5b1a3ebe6531333b99fef48c03\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\40cc0a685b9c776d8759b1b606c9e4bfafd0885c\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\PAVAS NAVANEY\.android\.android\build-cache\40cc0a685b9c776d8759b1b606c9e4bfafd0885c\output\AndroidManifest.xml:26:9-47

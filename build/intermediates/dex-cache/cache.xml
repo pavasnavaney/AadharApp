@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5f22951c9309a9437a80a2438b57616fd0435455\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3d0c5bda77ed8a9f0132540893de372255b6208f">
+        <dex dex="C:\Users\PAVAS NAVANEY\AndroidStudioProjects\AadharApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2fe827f4d70ab1002070fa7109f770641bbc0dbd\classes.dex" />
+    </item>
+
+</items>
